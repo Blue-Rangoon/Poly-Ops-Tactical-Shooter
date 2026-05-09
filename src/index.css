@@ -1,0 +1,32 @@
+@import "tailwindcss";
+@import "bootstrap-icons/font/bootstrap-icons.css";
+
+html {
+  scroll-behavior: smooth;
+}
+
+@keyframes pickupFloat {
+  0% {
+    opacity: 0;
+    transform: translateY(20px) scale(0.6);
+  }
+  15% {
+    opacity: 1;
+    transform: translateY(0) scale(1.15);
+  }
+  25% {
+    transform: translateY(-2px) scale(1);
+  }
+  80% {
+    opacity: 1;
+    transform: translateY(-22px) scale(1);
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(-40px) scale(0.95);
+  }
+}
+
+.pickup-notif {
+  animation: pickupFloat 1.8s ease-out forwards;
+}

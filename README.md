@@ -126,16 +126,22 @@ npm run build
 ```bash
 ├── src
 │   ├── game
-│   │   ├── FPSGame.ts          # Core 3D engine, enemy AI, weapons & collision mechanics
-│   │   └── SoundManager.ts     # Procedural audio synthesizers & audio node routing
+│   │   ├── FPSGame.ts
+│   │   └── SoundManager.ts
 │   ├── utils
-│   │   └── cn.ts               # Class merger utility
-│   ├── App.tsx                 # HUD Overlay, web portal, controls UI, and reactive state
-│   ├── index.css               # Core styling and font integration
-│   └── main.tsx                # Entrypoint mounting
-├── index.html                  # HTML template
-├── vite.config.ts              # Bundler configuration
-└── tsconfig.json               # TypeScript configuration
+│   │   └── cn.ts
+│   ├── App.tsx
+│   ├── index.css
+│   └── main.tsx
+├── .gitignore
+├── License
+├── README.md
+├── index.html
+├── package-lock.json
+├── package.json
+├── poly_ops_banner.png
+├── tsconfig.json
+└── vite.config.ts
 ```
 
 ---

@@ -18,11 +18,11 @@
 [![Vite](https://img.shields.io/badge/Vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
 
-[![Last Commit](https://img.shields.io/github/last-commit/Blue-Rangoon/Poly-Ops-Tactical-Shooter?style=for-the-badge&color=10b981)](https://github.com/Blue-Rangoon/Poly-Ops-Tactical-Shooter/commits/main)
-[![Stars](https://img.shields.io/github/stars/Blue-Rangoon/Poly-Ops-Tactical-Shooter?style=for-the-badge&color=10b981)](https://github.com/Blue-Rangoon/Poly-Ops-Tactical-Shooter/stargazers)
-[![Forks](https://img.shields.io/github/forks/Blue-Rangoon/Poly-Ops-Tactical-Shooter?style=for-the-badge&color=10b981)](https://github.com/Blue-Rangoon/Poly-Ops-Tactical-Shooter/network/members)
+[![Last Commit](https://img.shields.io/github/last-commit/Blue-Rangoon/Poly-Ops-Tactical-Shooter?style=for-the-badge&color=e3aa0e)](https://github.com/Blue-Rangoon/Poly-Ops-Tactical-Shooter/commits/main)
+[![Stars](https://img.shields.io/github/stars/Blue-Rangoon/Poly-Ops-Tactical-Shooter?style=for-the-badge&color=2e76e8)](https://github.com/Blue-Rangoon/Poly-Ops-Tactical-Shooter/stargazers)
+[![Forks](https://img.shields.io/github/forks/Blue-Rangoon/Poly-Ops-Tactical-Shooter?style=for-the-badge&color=6c3dd9)](https://github.com/Blue-Rangoon/Poly-Ops-Tactical-Shooter/network/members)
 [![License](https://img.shields.io/github/license/Blue-Rangoon/Poly-Ops-Tactical-Shooter?style=for-the-badge&color=10b981)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge&color=10b981)](https://github.com/Blue-Rangoon/Poly-Ops-Tactical-Shooter)
+[![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge&color=11cf60)](https://github.com/Blue-Rangoon/Poly-Ops-Tactical-Shooter)
 
 </div>
 

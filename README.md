@@ -200,7 +200,7 @@ Contributions, suggestions, and battle reports are welcome!
 ---
 
 ## 📄 License
-Distributed under the MIT License. See [License](file:///c:/Users/OCEAN%20TECH/OneDrive/Desktop/Poly-Ops-FPS-Game/License) for details.
+Distributed under the AGPL v3.0 License. See [License](./License) for details.
 
 ---
 

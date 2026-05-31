@@ -67,6 +67,10 @@ Featuring fully procedural Audio Synthesis (Web Audio API), physics-based player
 
 ---
 
+## 📸 Screenshots
+
+./screenshots/landing ss.jpeg
+
 ## ⭐ Repository Visitors
 
 <div align="center">

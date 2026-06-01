@@ -76,7 +76,7 @@ Featuring fully procedural Audio Synthesis (Web Audio API), physics-based player
 
 ![Website Page 2](screenshots/soldier-profile.jfif)
 
-![Website Page 3](screenshots/guns-specs.jfif)
+![Website Page 3](screenshots/gun-specs.jfif)
 
 ![Website Page 4](screenshots/disclaimer.jfif)
 

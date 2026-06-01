@@ -69,7 +69,18 @@ Featuring fully procedural Audio Synthesis (Web Audio API), physics-based player
 
 ## 📸 Screenshots
 
-./screenshots/landing ss.jpeg
+![Website Page 1](screenshots/landing-ss.jpeg)
+
+![Website Page 2](screenshots/soldier-profile.jfif)
+
+![Website Page 3](screenshots/guns-pecs.jfif)
+
+![Website Page 4](screenshots/disclaimer.jfif)
+
+![Gameplay Snapshot 1](screenshots/game1.jfif)
+
+![Gameplay Snapshot 2](screenshots/game2.jfif)
+
 
 ## ⭐ Repository Visitors
 

@@ -35,6 +35,7 @@
 ## 📋 Table of Contents
 
 - [About The Project](#about-the-project)
+- [📸 Screenshots](#-screenshots)
 - [⭐ Repository Visitors](#-repository-visitors)
 - [✨ Core Features](#-core-features)
   - [1. Swappable Weapon Arsenal](#1-swappable-weapon-arsenal)
@@ -69,17 +70,23 @@ Featuring fully procedural Audio Synthesis (Web Audio API), physics-based player
 
 ## 📸 Screenshots
 
+#### Website Snapshots
+
 ![Website Page 1](screenshots/landing-ss.jpeg)
 
 ![Website Page 2](screenshots/soldier-profile.jfif)
 
-![Website Page 3](screenshots/guns-pecs.jfif)
+![Website Page 3](screenshots/guns-specs.jfif)
 
 ![Website Page 4](screenshots/disclaimer.jfif)
 
-![Gameplay Snapshot 1](screenshots/game1.jfif)
+#### Game Snapshots
 
-![Gameplay Snapshot 2](screenshots/game2.jfif)
+![Gameplay Menu](screenshots/game-menu.jfif)
+
+![Gameplay Snapshot 2](screenshots/game1.jfif)
+
+![Gameplay Snapshot 3](screenshots/game2.jfif)
 
 
 ## ⭐ Repository Visitors

@@ -88,6 +88,8 @@ Featuring fully procedural Audio Synthesis (Web Audio API), physics-based player
 
 ![Gameplay Snapshot 3](screenshots/game2.jfif)
 
+![Gameplay Highscore](screenshots/polyops-highscore.png)
+
 
 ## ⭐ Repository Visitors
 

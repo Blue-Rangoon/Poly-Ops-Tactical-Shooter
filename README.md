@@ -64,7 +64,7 @@
 
 Featuring fully procedural Audio Synthesis (Web Audio API), physics-based player motion, and a tactile four-weapon gun catalog, **Poly Ops** runs natively inside modern desktop browsers without requiring heavy external asset downloads.
 
-> 💡 **Live Demo:** [Poly Ops Live Battlefield](https://poly-ops.vercel.app/) *(Live Website)*
+> 💡 **Live Demo:** [Poly Ops Live Battlefield](https://polyops.gamer.gd/) *(Live Website)*
 
 ---
 

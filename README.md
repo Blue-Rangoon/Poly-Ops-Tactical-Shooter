@@ -96,7 +96,7 @@ Featuring fully procedural Audio Synthesis (Web Audio API), physics-based player
 <div align="center">
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=Blue-Rangoon&repo=Poly-Ops-Tactical-Shooter&style=for-the-badge&color=10b981&label=Repository+Views)
-![GitHub Clones](https://komarev.com/ghpvc/?username=Blue-Rangoon&repo=Poly-Ops-Tactical-Shooter&style=for-the-badge&color=10b981&label=Repo+Clones)
+<!-- ![GitHub Clones](https://komarev.com/ghpvc/?username=Blue-Rangoon&repo=Poly-Ops-Tactical-Shooter&style=for-the-badge&color=10b981&label=Repo+Clones) -->
 
 </div>
 

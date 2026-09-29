@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-
   workflow_dispatch:
 
 jobs:
@@ -26,6 +25,13 @@ jobs:
 
       - name: Build Vite project
         run: npm run build
+
+      - name: Verify production build
+        run: |
+          echo "=== DIST ==="
+          find dist -maxdepth 2 -type f -printf '%p - %s bytes\n'
+          echo "=== INDEX ==="
+          cat dist/index.html
 
       - name: Deploy to InfinityFree
         uses: SamKirkland/FTP-Deploy-Action@v4.3.6
